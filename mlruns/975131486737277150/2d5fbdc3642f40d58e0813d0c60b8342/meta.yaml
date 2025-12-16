@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jkk/OneDrive/Desktop/credit-risk-model/mlruns/975131486737277150/2d5fbdc3642f40d58e0813d0c60b8342/artifacts
+end_time: 1765914659758
+entry_point_name: ''
+experiment_id: '975131486737277150'
+lifecycle_stage: active
+run_id: 2d5fbdc3642f40d58e0813d0c60b8342
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765914644150
+status: 3
+tags: []
+user_id: jkk

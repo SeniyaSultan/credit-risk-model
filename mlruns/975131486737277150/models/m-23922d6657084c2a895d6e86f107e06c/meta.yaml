@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/jkk/OneDrive/Desktop/credit-risk-model/mlruns/975131486737277150/models/m-23922d6657084c2a895d6e86f107e06c/artifacts
+creation_timestamp: 1765910453955
+experiment_id: '975131486737277150'
+last_updated_timestamp: 1765910468827
+model_id: m-23922d6657084c2a895d6e86f107e06c
+model_type: null
+name: Random Forest
+source_run_id: 8dc0216c99794abf885e13b9af49e751
+status: 2
+status_message: null

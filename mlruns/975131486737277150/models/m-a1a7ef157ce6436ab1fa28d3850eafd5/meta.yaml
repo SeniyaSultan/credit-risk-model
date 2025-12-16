@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/jkk/OneDrive/Desktop/credit-risk-model/mlruns/975131486737277150/models/m-a1a7ef157ce6436ab1fa28d3850eafd5/artifacts
+creation_timestamp: 1765910235797
+experiment_id: '975131486737277150'
+last_updated_timestamp: 1765910258511
+model_id: m-a1a7ef157ce6436ab1fa28d3850eafd5
+model_type: null
+name: Logistic Regression
+source_run_id: 004963acae3c499d96ed29d847a8dd32
+status: 2
+status_message: null

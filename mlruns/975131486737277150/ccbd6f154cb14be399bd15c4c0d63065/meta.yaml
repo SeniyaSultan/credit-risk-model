@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jkk/OneDrive/Desktop/credit-risk-model/mlruns/975131486737277150/ccbd6f154cb14be399bd15c4c0d63065/artifacts
+end_time: 1765914670514
+entry_point_name: ''
+experiment_id: '975131486737277150'
+lifecycle_stage: active
+run_id: ccbd6f154cb14be399bd15c4c0d63065
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765914659785
+status: 3
+tags: []
+user_id: jkk
